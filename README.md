@@ -41,3 +41,4 @@ https://[your-domain].vercel.app/api/webhook/setup
 - `/status` - 팀 현황
 - `/report` - 즉시 보고 요청
 - 자유 메시지 - 먼지가 AI로 응답
+Commit changes
